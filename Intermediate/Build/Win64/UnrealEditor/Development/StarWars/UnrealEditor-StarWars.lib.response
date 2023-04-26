@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-StarWars.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\StarWars\Intermediate\Build\Win64\StarWarsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\StarWars\Intermediate\Build\Win64\UnrealEditor\Development\StarWars\MyAIController.cpp.obj"
+"E:\StarWars\Intermediate\Build\Win64\UnrealEditor\Development\StarWars\StarWarsAIController.cpp.obj"
+"E:\StarWars\Intermediate\Build\Win64\UnrealEditor\Development\StarWars\StarWars.cpp.obj"
+"E:\StarWars\Intermediate\Build\Win64\UnrealEditor\Development\StarWars\MyAIController.gen.cpp.obj"
+"E:\StarWars\Intermediate\Build\Win64\UnrealEditor\Development\StarWars\StarWars.init.gen.cpp.obj"
+"E:\StarWars\Intermediate\Build\Win64\UnrealEditor\Development\StarWars\StarWarsAIController.gen.cpp.obj"
+"E:\StarWars\Intermediate\Build\Win64\UnrealEditor\Development\StarWars\Default.rc2.res"
+/OUT:"E:\StarWars\Intermediate\Build\Win64\UnrealEditor\Development\StarWars\UnrealEditor-StarWars.lib"

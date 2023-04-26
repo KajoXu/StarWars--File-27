@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\starwars\\intermediate\\build\\win64\\unrealeditor\\inc\\starwars\\starwars.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\starwars\\intermediate\\build\\win64\\starwarseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\starwars\\intermediate\\build\\win64\\unrealeditor\\development\\starwars\\definitions.starwars.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

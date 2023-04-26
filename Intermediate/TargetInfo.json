@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StarWars",
+			"Path": "E:\\StarWars\\Source\\StarWars.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StarWarsEditor",
+			"Path": "E:\\StarWars\\Source\\StarWarsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
